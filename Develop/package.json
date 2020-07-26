@@ -1,7 +1,6 @@
 {
-  "name": "1-Passport-Example",
+  "name": "reverse-engineer-code",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,8 +8,8 @@
     "watch": "nodemon server.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Journey Cruz",
+  "license": "MIT",
   "dependencies": {
     "bcryptjs": "2.4.3",
     "express": "^4.17.0",
@@ -19,5 +18,7 @@
     "passport": "^0.4.0",
     "passport-local": "^1.0.0",
     "sequelize": "^5.8.6"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
